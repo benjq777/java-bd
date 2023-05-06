@@ -22,7 +22,7 @@ public class Main {
 
         int filasActualizadas = cs.executeUpdate();
 
-        System.out.println("Filas Actualizadas: " + filasActualizadas);
+        System.out.println("Filas Actualizadass: " + filasActualizadas);
 
         System.out.println("");
         System.out.println("-------------------------Todo Salio-------------------------");
